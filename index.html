@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan Soal SIM - Interaktif Instan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Latihan Soal SIM Interaktif</h1>
+        <div id="score-display">
+            Jawaban Benar: <span id="correct-count">0</span> / 100
+        </div>
+        
+        <div id="quiz-container">
+            
+            <div id="question-area">
+                </div>
+            
+            <div id="feedback-area" style="display: none;">
+                </div>
+            
+            <div id="navigation-area">
+                <button id="next-btn" onclick="nextQuestion()" disabled>Soal Selanjutnya (0/100)</button>
+            </div>
+        </div>
+
+        <div id="final-result-area" style="display: none;">
+            <h2>Latihan Selesai!</h2>
+            <p>Total Soal: <span id="total-questions"></span></p>
+            <p>Jawaban Benar: <span id="final-correct-answers"></span></p>
+            <p>Skor Akhir Anda: <span id="final-score"></span> / 100</p>
+            <button onclick="window.location.reload()">Ulangi Latihan</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
