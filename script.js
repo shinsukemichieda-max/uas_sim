@@ -954,16 +954,16 @@ const dataSoal = [
     "jawaban": "D",
     "rationale": "Kualitas dalam proyek perangkat lunak diukur dari kesesuaian dengan persyaratan dan ketiadaan kesalahan (bug) pada produk."
   },
-  {
-    "id": 96,
-    "soal": "Dalam hak penggunaan data, label unik untuk setiap jenis data adalah....",
-    "opsi_a": "pengenal",
-    "opsi_b": "definisi",
-    "opsi_c": "aturan integritas",
-    "opsi_d": "penamaan",
-    "jawaban": "D",
-    "rationale": "Naming (penamaan) memberikan identitas atau label yang unik untuk membedakan satu jenis data dengan yang lainnya."
-  },
+{
+  "id": 96,
+  "soal": "Dalam manajemen data, pemberian identitas atau label unik yang digunakan untuk membedakan satu elemen data atau kategori data dengan yang lainnya disebut....",
+  "opsi_a": "pengenal (identifier)",
+  "opsi_b": "definisi data",
+  "opsi_c": "aturan integritas",
+  "opsi_d": "skema penamaan (naming)",
+  "jawaban": "A",
+  "rationale": "Pengenal (Identifier) adalah label atau kunci unik yang digunakan untuk mengidentifikasi secara spesifik suatu entitas atau jenis data agar tidak tertukar dengan data lainnya."
+},
   {
     "id": 97,
     "soal": "Prinsip bahwa data harus mencerminkan nilai yang sebenarnya dan tidak mengandung kesalahan dikenal dengan istilah....",
