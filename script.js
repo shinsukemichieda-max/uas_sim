@@ -274,16 +274,16 @@ const dataSoal = [
     "jawaban": "D",
     "rationale": "Social media marketing sangat bergantung pada interaksi sosial dan opini komunitas di dalam platform tersebut."
   },
-  {
-    "id": 28,
-    "soal": "Tujuan keseluruhan dari manajemen layanan TI dengan ITIL adalah....",
-    "opsi_a": "pelacakan insiden komputer lebih cepat",
-    "opsi_b": "proses manajemen perubahan formal",
-    "opsi_c": "tersedia kapasitas komputer memadai",
-    "opsi_d": "menyelaraskan layanan TI dengan kebutuhan bisnis secara efektif",
-    "jawaban": "D",
-    "rationale": "Meskipun opsinya panjang, ITIL berfokus pada antisipasi dampak dan efisiensi layanan TI bagi operasional bisnis."
-  },
+ {
+  "id": 28,
+  "soal": "Tujuan keseluruhan dari manajemen layanan teknologi informasi dengan Information Technology Infrastructure Library (ITIL) adalah....",
+  "opsi_a": "pelacakan insiden komputer lebih cepat untuk memperbaiki masalah secara permanen",
+  "opsi_b": "proses manajemen perubahan formal untuk setiap perubahan teknologi informasi",
+  "opsi_c": "tersedia kapasitas komputer yang memadai untuk aplikasi baru",
+  "opsi_d": "staf operasi teknologi operasi dapat mengantisipasi dampak pemberian layanan dengan lebih baik sebelum perubahan infrastruktur teknologi informasi dibuat",
+  "jawaban": "D",
+  "rationale": "ITIL bertujuan untuk memberikan tata kelola layanan TI yang terintegrasi sehingga risiko kegagalan layanan dapat diminimalisir melalui pemahaman yang lebih baik terhadap dampak perubahan infrastruktur terhadap bisnis."
+},
   {
     "id": 29,
     "soal": "Tahapan setelah langkah pemrograman pada pengembangan sistem informasi adalah....",
@@ -874,16 +874,16 @@ const dataSoal = [
     "jawaban": "A",
     "rationale": "UU No 14 Tahun 2008 adalah tentang Keterbukaan Informasi Publik (KIP)."
   },
-  {
+ {
     "id": 88,
-    "soal": "Perusahaan membuat omni channels adalah strategi....",
+    "soal": "Perusahaan yang menyikapi perkembangan teknologi informasi dengan membuat omni channels serta mengembangkan digitalisasi proses jual beli merupakan penerapan strategi....",
     "opsi_a": "customer experience",
     "opsi_b": "disruptive",
     "opsi_c": "connected customer",
     "opsi_d": "digital mindset",
     "jawaban": "A",
-    "rationale": "Omni-channel bertujuan memberikan pengalaman belanja yang mulus dan konsisten bagi pelanggan di semua kanal."
-  },
+    "rationale": "Strategi omni-channel berfokus pada penciptaan pengalaman pelanggan (customer experience) yang mulus, konsisten, dan terintegrasi di berbagai saluran komunikasi maupun penjualan, baik fisik maupun digital."
+},
   {
     "id": 89,
     "soal": "Teknologi komputer belajar dari data tanpa diprogram secara eksplisit....",
